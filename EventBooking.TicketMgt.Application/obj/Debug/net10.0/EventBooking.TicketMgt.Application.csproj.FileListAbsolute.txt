@@ -1,0 +1,16 @@
+C:\Users\suber\Desktop\BLAZOR\EventBooking.TicketMgt\EventBooking.TicketMgt.Application\bin\Debug\net10.0\EventBooking.TicketMgt.Application.deps.json
+C:\Users\suber\Desktop\BLAZOR\EventBooking.TicketMgt\EventBooking.TicketMgt.Application\bin\Debug\net10.0\EventBooking.TicketMgt.Application.dll
+C:\Users\suber\Desktop\BLAZOR\EventBooking.TicketMgt\EventBooking.TicketMgt.Application\bin\Debug\net10.0\EventBooking.TicketMgt.Application.pdb
+C:\Users\suber\Desktop\BLAZOR\EventBooking.TicketMgt\EventBooking.TicketMgt.Application\bin\Debug\net10.0\EventBooking.TicketMgt.Domain.dll
+C:\Users\suber\Desktop\BLAZOR\EventBooking.TicketMgt\EventBooking.TicketMgt.Application\bin\Debug\net10.0\EventBooking.TicketMgt.Domain.pdb
+C:\Users\suber\Desktop\BLAZOR\EventBooking.TicketMgt\EventBooking.TicketMgt.Application\obj\Debug\net10.0\EventBooking.TicketMgt.Application.csproj.AssemblyReference.cache
+C:\Users\suber\Desktop\BLAZOR\EventBooking.TicketMgt\EventBooking.TicketMgt.Application\obj\Debug\net10.0\EventBooking.TicketMgt.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suber\Desktop\BLAZOR\EventBooking.TicketMgt\EventBooking.TicketMgt.Application\obj\Debug\net10.0\EventBooking.TicketMgt.Application.AssemblyInfoInputs.cache
+C:\Users\suber\Desktop\BLAZOR\EventBooking.TicketMgt\EventBooking.TicketMgt.Application\obj\Debug\net10.0\EventBooking.TicketMgt.Application.AssemblyInfo.cs
+C:\Users\suber\Desktop\BLAZOR\EventBooking.TicketMgt\EventBooking.TicketMgt.Application\obj\Debug\net10.0\EventBooking.TicketMgt.Application.csproj.CoreCompileInputs.cache
+C:\Users\suber\Desktop\BLAZOR\EventBooking.TicketMgt\EventBooking.TicketMgt.Application\obj\Debug\net10.0\EventBooking.TicketMgt.Application.sourcelink.json
+C:\Users\suber\Desktop\BLAZOR\EventBooking.TicketMgt\EventBooking.TicketMgt.Application\obj\Debug\net10.0\EventBoo.6879DA84.Up2Date
+C:\Users\suber\Desktop\BLAZOR\EventBooking.TicketMgt\EventBooking.TicketMgt.Application\obj\Debug\net10.0\EventBooking.TicketMgt.Application.dll
+C:\Users\suber\Desktop\BLAZOR\EventBooking.TicketMgt\EventBooking.TicketMgt.Application\obj\Debug\net10.0\refint\EventBooking.TicketMgt.Application.dll
+C:\Users\suber\Desktop\BLAZOR\EventBooking.TicketMgt\EventBooking.TicketMgt.Application\obj\Debug\net10.0\EventBooking.TicketMgt.Application.pdb
+C:\Users\suber\Desktop\BLAZOR\EventBooking.TicketMgt\EventBooking.TicketMgt.Application\obj\Debug\net10.0\ref\EventBooking.TicketMgt.Application.dll

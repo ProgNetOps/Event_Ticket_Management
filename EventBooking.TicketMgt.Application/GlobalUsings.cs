@@ -1,1 +1,1 @@
-﻿global using EventBooking.TicketMgt.Domain;
+﻿global using EventBooking.TicketMgt.Domain.Entities;

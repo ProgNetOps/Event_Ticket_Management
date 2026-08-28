@@ -5,6 +5,7 @@ C:\Users\suber\Desktop\BLAZOR\EventBooking.TicketMgt\EventBooking.TicketMgt.Doma
 C:\Users\suber\Desktop\BLAZOR\EventBooking.TicketMgt\EventBooking.TicketMgt.Domain\obj\Debug\net10.0\EventBooking.TicketMgt.Domain.AssemblyInfoInputs.cache
 C:\Users\suber\Desktop\BLAZOR\EventBooking.TicketMgt\EventBooking.TicketMgt.Domain\obj\Debug\net10.0\EventBooking.TicketMgt.Domain.AssemblyInfo.cs
 C:\Users\suber\Desktop\BLAZOR\EventBooking.TicketMgt\EventBooking.TicketMgt.Domain\obj\Debug\net10.0\EventBooking.TicketMgt.Domain.csproj.CoreCompileInputs.cache
+C:\Users\suber\Desktop\BLAZOR\EventBooking.TicketMgt\EventBooking.TicketMgt.Domain\obj\Debug\net10.0\EventBooking.TicketMgt.Domain.sourcelink.json
 C:\Users\suber\Desktop\BLAZOR\EventBooking.TicketMgt\EventBooking.TicketMgt.Domain\obj\Debug\net10.0\EventBooking.TicketMgt.Domain.dll
 C:\Users\suber\Desktop\BLAZOR\EventBooking.TicketMgt\EventBooking.TicketMgt.Domain\obj\Debug\net10.0\refint\EventBooking.TicketMgt.Domain.dll
 C:\Users\suber\Desktop\BLAZOR\EventBooking.TicketMgt\EventBooking.TicketMgt.Domain\obj\Debug\net10.0\EventBooking.TicketMgt.Domain.pdb
