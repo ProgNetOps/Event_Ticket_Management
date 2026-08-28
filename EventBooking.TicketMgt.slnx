@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/src/" />
+  <Folder Name="/src/API/" />
+  <Folder Name="/src/Core/">
+    <Project Path="EventBooking.TicketMgt.Application/EventBooking.TicketMgt.Application.csproj" Id="01597602-de6e-4347-8354-dc296251bd0d" />
+    <Project Path="EventBooking.TicketMgt.Domain/EventBooking.TicketMgt.Domain.csproj" />
+  </Folder>
+  <Folder Name="/src/Infrastructure/" />
+  <Folder Name="/src/UI/" />
+  <Folder Name="/test/" />
+</Solution>

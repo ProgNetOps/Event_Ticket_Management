@@ -1,0 +1,1 @@
+﻿global using EventBooking.TicketMgt.Domain.Common;
