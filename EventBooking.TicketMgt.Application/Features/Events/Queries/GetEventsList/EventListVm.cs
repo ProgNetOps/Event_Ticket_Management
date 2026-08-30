@@ -1,5 +1,4 @@
-﻿
-namespace EventBooking.TicketMgt.Application.Features.Events;
+﻿namespace EventBooking.TicketMgt.Application.Features.Events.Queries.GetEventsList;
 /// <summary>
 /// A class containing just the properties of event returned in a list
 /// </summary>

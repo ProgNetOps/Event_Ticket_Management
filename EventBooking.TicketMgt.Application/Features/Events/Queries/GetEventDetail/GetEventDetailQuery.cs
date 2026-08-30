@@ -1,4 +1,4 @@
-﻿namespace EventBooking.TicketMgt.Application.Features.Events;
+﻿namespace EventBooking.TicketMgt.Application.Features.Events.Queries.GetEventDetail;
 
 public class GetEventDetailQuery:IRequest<EventDetailVm>
 {

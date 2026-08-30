@@ -1,16 +1,15 @@
-﻿using AutoMapper;
-using EventBooking.TicketMgt.Application.Contracts.Persistence;
+﻿using EventBooking.TicketMgt.Application.Contracts.Persistence;
 
-namespace EventBooking.TicketMgt.Application.Features.Events;
+namespace EventBooking.TicketMgt.Application.Features.Events.Queries.GetEventDetail;
 
 public class GetEventDetailQueryHandler(
-    IAsyncRepository<Event> eventRepository,
-    IAsyncRepository<Category> categoryRepository,
+    IEventRepository eventRepository,
+    ICategoryRepository categoryRepository,
     IMapper mapper) 
     : IRequestHandler<GetEventDetailQuery, EventDetailVm>
 {
-    private readonly IAsyncRepository<Event> _eventRepository = eventRepository;
-    private readonly IAsyncRepository<Category> _categoryRepository = categoryRepository;
+    private readonly IEventRepository _eventRepository = eventRepository;
+    private readonly ICategoryRepository _categoryRepository = categoryRepository;
     private readonly IMapper _mapper = mapper;
     public async Task<EventDetailVm> Handle(GetEventDetailQuery request, CancellationToken cancellationToken)
     {
