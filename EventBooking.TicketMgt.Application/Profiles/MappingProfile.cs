@@ -1,6 +1,6 @@
-﻿using AutoMapper;
-using EventBooking.TicketMgt.Application.Features.Categories.Queries.GetCategoriesList;
+﻿using EventBooking.TicketMgt.Application.Features.Categories.Queries.GetCategoriesList;
 using EventBooking.TicketMgt.Application.Features.Categories.Queries.GetCategoriesListWithEvents;
+using EventBooking.TicketMgt.Application.Features.Events.Commands.CreateEvent;
 using EventBooking.TicketMgt.Application.Features.Events.Queries.GetEventDetail;
 using EventBooking.TicketMgt.Application.Features.Events.Queries.GetEventsList;
 
@@ -15,5 +15,7 @@ public class MappingProfile:Profile
         CreateMap<Category, CategoryDto>();
         CreateMap<Category, CategoryListVm>();
         CreateMap<Category, CategoryEventListVm>();
+
+        CreateMap<Event, CreateEventCommand>().ReverseMap();
     }
 }
