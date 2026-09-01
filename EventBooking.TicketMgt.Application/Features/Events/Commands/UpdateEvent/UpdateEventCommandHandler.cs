@@ -9,13 +9,12 @@ public class UpdateEventCommandHandler(IEventRepository eventRepository,
     private readonly IEventRepository _eventRepository=eventRepository;
     private readonly IMapper _mapper=mapper;
 
-    public async Task<Unit> Handle(UpdateEventCommand request, CancellationToken cancellationToken)
+    public async Task Handle(UpdateEventCommand request, CancellationToken cancellationToken)
     {
         var eventToUpdate = await _eventRepository.GetByIdAsync(request.EventId);
         
         _mapper.Map(request, eventToUpdate, typeof(UpdateEventCommand), typeof(Event));
-        await _eventRepository.UpdateAsync(eventToUpdate);
-        return Unit.Value;
+        await _eventRepository.UpdateAsync(eventToUpdate);        
     }
 
    
