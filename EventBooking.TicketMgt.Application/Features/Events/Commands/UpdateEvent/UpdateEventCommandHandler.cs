@@ -2,7 +2,8 @@
 
 namespace EventBooking.TicketMgt.Application.Features.Events.Commands.UpdateEvent;
 
-public class UpdateEventCommandHandler(IEventRepository eventRepository,
+public class UpdateEventCommandHandler(
+    IEventRepository eventRepository,
     IMapper mapper)
     :IRequestHandler<UpdateEventCommand>
 {
