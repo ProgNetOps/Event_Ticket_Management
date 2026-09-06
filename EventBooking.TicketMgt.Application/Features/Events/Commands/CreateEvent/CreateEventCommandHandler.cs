@@ -26,8 +26,9 @@ public class CreateEventCommandHandler (
             throw new Exceptions.ValidationException(validationResult);
         }
 
-
         @event = await _eventRepository.AddAsync(@event);
+
+        //We return the id of the new event created
         return @event.EventId;
     }
 }

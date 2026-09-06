@@ -25,13 +25,16 @@ public class CreateEventCommandValidator : AbstractValidator<CreateEventCommand>
             .NotEmpty().WithMessage("{PropertyName} is required")
             .GreaterThan(0);
 
+        /*Validate if the combination of event name and date
+        is still unique in the database, so we bring in the eventRepository*/
         RuleFor(e => e)
             .MustAsync(EventNameAndDateUnique)
             .WithMessage("An event with the same name and date already exists");
             
     }
 
-    private async Task<bool> EventNameAndDateUnique()
+    //Custom validation rule to trigger
+    private async Task<bool> EventNameAndDateUnique(CreateEventCommand e, CancellationToken cancellationToken)
     {
         return (await _eventRepository.IsEventNameAndDateUnuque(e.Name, e.Date) is false);
     }

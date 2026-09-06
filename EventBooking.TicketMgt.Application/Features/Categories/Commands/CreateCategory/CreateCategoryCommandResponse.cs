@@ -1,10 +1,14 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
+﻿using EventBooking.TicketMgt.Application.Responses;
 
-namespace EventBooking.TicketMgt.Application.Features.Categories.Commands.CreateCategory
+namespace EventBooking.TicketMgt.Application.Features.Categories.Commands.CreateCategory;
+
+public class CreateCategoryCommandResponse:BaseResponse
 {
-    internal class CreateCategoryCommandResponse
+    public CreateCategoryCommandResponse():base()
     {
+        
     }
+
+    public CreateCategoryDto Category { get; set; } = default!;
+    
 }

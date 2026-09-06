@@ -1,10 +1,14 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
+﻿using FluentValidation;
 
-namespace EventBooking.TicketMgt.Application.Features.Categories.Commands.CreateCategory
+namespace EventBooking.TicketMgt.Application.Features.Categories.Commands.CreateCategory;
+
+public class CreateCategoryCommandValidator: AbstractValidator<CreateCategoryCommand>
 {
-    internal class CreateCategoryCommandValidator
+    public CreateCategoryCommandValidator()
     {
+        RuleFor(p => p.Name)
+            .NotEmpty().WithMessage("{PropertyName} is required.")
+            .NotNull()
+            .MaximumLength(50).WithMessage("{PropertyName} must not exceed 10 characters.");
     }
 }
