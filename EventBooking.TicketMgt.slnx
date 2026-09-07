@@ -5,7 +5,9 @@
     <Project Path="EventBooking.TicketMgt.Application/EventBooking.TicketMgt.Application.csproj" Id="01597602-de6e-4347-8354-dc296251bd0d" />
     <Project Path="EventBooking.TicketMgt.Domain/EventBooking.TicketMgt.Domain.csproj" />
   </Folder>
-  <Folder Name="/src/Infrastructure/" />
+  <Folder Name="/src/Infrastructure/">
+    <Project Path="EventBooking.TicketMgt.Persistence/EventBooking.TicketMgt.Persistence.csproj" Id="b18932d8-4d69-4468-bfa7-53556bc5474b" />
+  </Folder>
   <Folder Name="/src/UI/" />
   <Folder Name="/test/" />
 </Solution>
