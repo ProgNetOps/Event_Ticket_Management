@@ -4,6 +4,7 @@ namespace EventBooking.TicketMgt.Persistence.Repositories;
 
 public class BaseRepository<T>(EventBookingDbContext dbContext) : IAsyncRepository<T> where T : class
 {
+    //protected instance is available to all child classesof BaseRepository
     protected readonly EventBookingDbContext _dbContext = dbContext;
 
     public virtual async Task<T> GetByIdAsync(Guid id)

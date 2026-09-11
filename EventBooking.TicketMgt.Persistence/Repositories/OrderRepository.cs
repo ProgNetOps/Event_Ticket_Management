@@ -1,10 +1,25 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
+﻿using EventBooking.TicketMgt.Application.Contracts.Persistence;
+using EventBooking.TicketMgt.Domain.Entities;
 
-namespace EventBooking.TicketMgt.Persistence.Repositories
+namespace EventBooking.TicketMgt.Persistence.Repositories;
+
+public class OrderRepository(EventBookingDbContext dbContext)
+    :BaseRepository<Order>(dbContext)
+    ,IOrderRepository
 {
-    internal class OrderRepository
+    public async Task<List<Order>> GetPagedOrdersForMonth(DateTime date, int page, int size)
     {
+        return await _dbContext.Orders.Where(x =>x.OrderPlaced.Month == date.Month 
+        && x.OrderPlaced.Year==date.Year)
+            .Skip((page-1) * size)
+            .Take(size)
+            .AsNoTracking()
+            .ToListAsync();
+    }
+
+    public async Task<int> GetTotalCountOfOrdersForMonth(DateTime date)
+    {
+        return await _dbContext.Orders.CountAsync(x=>x.OrderPlaced.Month == 
+        date.Month && x.OrderPlaced.Year==date.Year);
     }
 }

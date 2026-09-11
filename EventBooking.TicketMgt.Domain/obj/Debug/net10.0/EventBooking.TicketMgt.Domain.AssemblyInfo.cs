@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EventBooking.TicketMgt.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ba7ff9e192db739497e85555da170f234cfd7179")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1253811eaad2ed0e7b3cf987be9e787c457334cd")]
 [assembly: System.Reflection.AssemblyProductAttribute("EventBooking.TicketMgt.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EventBooking.TicketMgt.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

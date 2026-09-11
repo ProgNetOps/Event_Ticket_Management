@@ -36,6 +36,6 @@ public class CreateEventCommandValidator : AbstractValidator<CreateEventCommand>
     //Custom validation rule to trigger
     private async Task<bool> EventNameAndDateUnique(CreateEventCommand e, CancellationToken cancellationToken)
     {
-        return (await _eventRepository.IsEventNameAndDateUnuque(e.Name, e.Date) is false);
+        return (await _eventRepository.IsEventNameAndDateUnique(e.Name, e.Date) is false);
     }
 }

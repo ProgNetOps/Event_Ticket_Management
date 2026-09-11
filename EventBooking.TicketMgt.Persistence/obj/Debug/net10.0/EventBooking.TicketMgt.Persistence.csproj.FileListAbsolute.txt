@@ -1,3 +1,9 @@
+C:\Users\suber\Desktop\BLAZOR\EventBooking.TicketMgt\EventBooking.TicketMgt.Persistence\obj\Debug\net10.0\EventBooking.TicketMgt.Persistence.csproj.AssemblyReference.cache
+C:\Users\suber\Desktop\BLAZOR\EventBooking.TicketMgt\EventBooking.TicketMgt.Persistence\obj\Debug\net10.0\EventBooking.TicketMgt.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suber\Desktop\BLAZOR\EventBooking.TicketMgt\EventBooking.TicketMgt.Persistence\obj\Debug\net10.0\EventBooking.TicketMgt.Persistence.AssemblyInfoInputs.cache
+C:\Users\suber\Desktop\BLAZOR\EventBooking.TicketMgt\EventBooking.TicketMgt.Persistence\obj\Debug\net10.0\EventBooking.TicketMgt.Persistence.AssemblyInfo.cs
+C:\Users\suber\Desktop\BLAZOR\EventBooking.TicketMgt\EventBooking.TicketMgt.Persistence\obj\Debug\net10.0\EventBooking.TicketMgt.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\suber\Desktop\BLAZOR\EventBooking.TicketMgt\EventBooking.TicketMgt.Persistence\obj\Debug\net10.0\EventBooking.TicketMgt.Persistence.sourcelink.json
 C:\Users\suber\Desktop\BLAZOR\EventBooking.TicketMgt\EventBooking.TicketMgt.Persistence\bin\Debug\net10.0\EventBooking.TicketMgt.Persistence.deps.json
 C:\Users\suber\Desktop\BLAZOR\EventBooking.TicketMgt\EventBooking.TicketMgt.Persistence\bin\Debug\net10.0\EventBooking.TicketMgt.Persistence.dll
 C:\Users\suber\Desktop\BLAZOR\EventBooking.TicketMgt\EventBooking.TicketMgt.Persistence\bin\Debug\net10.0\EventBooking.TicketMgt.Persistence.pdb
@@ -5,12 +11,6 @@ C:\Users\suber\Desktop\BLAZOR\EventBooking.TicketMgt\EventBooking.TicketMgt.Pers
 C:\Users\suber\Desktop\BLAZOR\EventBooking.TicketMgt\EventBooking.TicketMgt.Persistence\bin\Debug\net10.0\EventBooking.TicketMgt.Domain.dll
 C:\Users\suber\Desktop\BLAZOR\EventBooking.TicketMgt\EventBooking.TicketMgt.Persistence\bin\Debug\net10.0\EventBooking.TicketMgt.Application.pdb
 C:\Users\suber\Desktop\BLAZOR\EventBooking.TicketMgt\EventBooking.TicketMgt.Persistence\bin\Debug\net10.0\EventBooking.TicketMgt.Domain.pdb
-C:\Users\suber\Desktop\BLAZOR\EventBooking.TicketMgt\EventBooking.TicketMgt.Persistence\obj\Debug\net10.0\EventBooking.TicketMgt.Persistence.csproj.AssemblyReference.cache
-C:\Users\suber\Desktop\BLAZOR\EventBooking.TicketMgt\EventBooking.TicketMgt.Persistence\obj\Debug\net10.0\EventBooking.TicketMgt.Persistence.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\suber\Desktop\BLAZOR\EventBooking.TicketMgt\EventBooking.TicketMgt.Persistence\obj\Debug\net10.0\EventBooking.TicketMgt.Persistence.AssemblyInfoInputs.cache
-C:\Users\suber\Desktop\BLAZOR\EventBooking.TicketMgt\EventBooking.TicketMgt.Persistence\obj\Debug\net10.0\EventBooking.TicketMgt.Persistence.AssemblyInfo.cs
-C:\Users\suber\Desktop\BLAZOR\EventBooking.TicketMgt\EventBooking.TicketMgt.Persistence\obj\Debug\net10.0\EventBooking.TicketMgt.Persistence.csproj.CoreCompileInputs.cache
-C:\Users\suber\Desktop\BLAZOR\EventBooking.TicketMgt\EventBooking.TicketMgt.Persistence\obj\Debug\net10.0\EventBooking.TicketMgt.Persistence.sourcelink.json
 C:\Users\suber\Desktop\BLAZOR\EventBooking.TicketMgt\EventBooking.TicketMgt.Persistence\obj\Debug\net10.0\EventBoo.0C1E7CF0.Up2Date
 C:\Users\suber\Desktop\BLAZOR\EventBooking.TicketMgt\EventBooking.TicketMgt.Persistence\obj\Debug\net10.0\EventBooking.TicketMgt.Persistence.dll
 C:\Users\suber\Desktop\BLAZOR\EventBooking.TicketMgt\EventBooking.TicketMgt.Persistence\obj\Debug\net10.0\refint\EventBooking.TicketMgt.Persistence.dll

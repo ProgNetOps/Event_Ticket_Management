@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EventBooking.TicketMgt.Persistence")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+44f99eac3190fb39afe01c7606a875fedf76df32")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1253811eaad2ed0e7b3cf987be9e787c457334cd")]
 [assembly: System.Reflection.AssemblyProductAttribute("EventBooking.TicketMgt.Persistence")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EventBooking.TicketMgt.Persistence")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
